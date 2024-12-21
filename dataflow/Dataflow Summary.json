@@ -167,7 +167,7 @@
 				"     truncate: true,",
 				"     umask: 0022,",
 				"     preCommands: [],",
-				"     postCommands: ['tail -n +2 /dirstaging/summary.csv > /dirstaging/temp.csv','mv /dirstaging/temp.csv /dirstaging/summary.csv'],",
+				"     postCommands: [],",
 				"     skipDuplicateMapInputs: true,",
 				"     skipDuplicateMapOutputs: true,",
 				"     saveOrder: 1,",
